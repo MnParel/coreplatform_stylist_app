@@ -1,4 +1,4 @@
-package com.coreplatform_stylist_app;
+package com.coreplatform.professional;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

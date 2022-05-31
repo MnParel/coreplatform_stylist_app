@@ -1,4 +1,4 @@
-package com.coreplatform_stylist_app.newarchitecture.modules;
+package com.coreplatform.professional.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

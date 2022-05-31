@@ -28,7 +28,6 @@ build/
 .gradle
 local.properties
 *.iml
-*.hprof
 
 # node.js
 #
@@ -56,6 +55,7 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
-# Ruby / CocoaPods
+# CocoaPods
 /ios/Pods/
-/vendor/bundle/
+yarn.lock
+package-lock.json

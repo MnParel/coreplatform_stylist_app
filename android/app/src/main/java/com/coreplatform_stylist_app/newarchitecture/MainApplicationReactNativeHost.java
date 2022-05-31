@@ -1,4 +1,4 @@
-package com.coreplatform_stylist_app.newarchitecture;
+package com.coreplatform.professional.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.coreplatform_stylist_app.BuildConfig;
-import com.coreplatform_stylist_app.newarchitecture.components.MainComponentsRegistry;
-import com.coreplatform_stylist_app.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.coreplatform.professional.BuildConfig;
+import com.coreplatform.professional.newarchitecture.components.MainComponentsRegistry;
+import com.coreplatform.professional.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
